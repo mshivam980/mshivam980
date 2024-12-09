@@ -2,8 +2,9 @@
 ## Hi there 👋
 My Name is Shivam. I'm an IIT Kanpur-trained business analyst interested in optimizing all things using data.
 
-- 🔭 I am completing an MBA in Business Analytics at IIT Kanpur in April 2025 and looking for full-time work after April.
-- 🌱 I’m working on [Emendo AI][https://emendo.ai/], building AI companion for renovation contractors.
+- 🔭 I will complete an MBA in Business Analytics at IIT Kanpur in April 2025, so I am looking for full-time opportunities post-April.
+- 🌱 I’m working on [Emendo AI](https://emendo.ai/), building AI companion for renovation contractors.
+- 👯 I recently built a power BI dashboard analyzing sales trends, customer preferences, and delivery efficiency of Blinkit, here(https://github.com/mshivam980/Blinkit-Data-Analysis-with-Power-BI).
 - 🤔 ⚡ Fun fact: I have 4 years of experience in product analytics, agile methodologies, and cross-functional collaboration.
 <!--
 **mshivam980/mshivam980** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
