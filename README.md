@@ -1,8 +1,9 @@
 ![Copy of S](https://github.com/user-attachments/assets/e209191e-ecfe-4c11-a964-b150c8a1a6d1)
 ## Hi there 👋
-- 🔭 I am completing an MBA in Business Analytics at IIT Kanpur.
-- 🌱 I’m learning ML algorithms while building Digital Assistant and AMA modules with AWS serverless architecture and generative AI.
-- 👯 I’m looking for full-time work to join from April of 2025.
+My Name is Shivam. I'm an IIT Kanpur-trained business analyst interested in optimizing all things using data.
+
+- 🔭 I am completing an MBA in Business Analytics at IIT Kanpur in April 2025 and looking for full-time work after April.
+- 🌱 I’m working on [Emendo AI][https://emendo.ai/], building AI companion for renovation contractors.
 - 🤔 ⚡ Fun fact: I have 4 years of experience in product analytics, agile methodologies, and cross-functional collaboration.
 <!--
 **mshivam980/mshivam980** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
