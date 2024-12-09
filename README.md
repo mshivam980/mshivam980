@@ -1,3 +1,4 @@
+![S (4)](https://github.com/user-attachments/assets/18920a51-653a-43c7-afb3-cce7a533f9f6)
 ## Hi there 👋
 
 <!--
