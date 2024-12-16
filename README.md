@@ -1,4 +1,4 @@
-![Copy of S](https://github.com/user-attachments/assets/e209191e-ecfe-4c11-a964-b150c8a1a6d1)
+![Copy of S (1)](https://github.com/user-attachments/assets/578db3cd-4308-401d-8a4f-59b3562601d3)
 ## Hi there 👋
 My Name is Shivam. I'm an IIT Kanpur-trained business analyst interested in optimizing all things using data.
 
