@@ -1,4 +1,4 @@
-![Copy of S (1)](https://github.com/user-attachments/assets/578db3cd-4308-401d-8a4f-59b3562601d3)
+![Shivam Mishra Banner](https://github.com/user-attachments/assets/1b019ebd-e39f-4e5f-922a-db9f41ebf42a)
 ## Hi there 👋
 My Name is Shivam. I'm an IIT Kanpur-trained business analyst interested in optimizing all things using data.
 
